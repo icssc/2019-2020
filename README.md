@@ -12,7 +12,7 @@ Aaron Chen
 Ritika Roy Choudhury  
 Raman Gupta  
 Ryan Hartanto  
-Yizhen Liu 
+Yizhen Liu  
 Braedon Schmidt   
 Mayank Sharma  
 William Yang  
