@@ -7,7 +7,7 @@ Marawin Chheang
   
 **Committee Members:**  
 Monica Bui  
-Rona Chan 
+Rona Chan   
 Aaron Chen  
 Ritika Roy Choudhury  
 Raman Gupta  
