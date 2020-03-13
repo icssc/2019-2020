@@ -6,16 +6,16 @@
 Marawin Chheang  
   
 **Committee Members:**  
-Monica Bui
+Monica Bui  
 Rona Chan   
-Aaron Chen
-Evelyn Cheng
+Aaron Chen  
+Evelyn Cheng  
 Ritika Roy Choudhury  
 Raman Gupta  
-Ryan Hartanto
-Trisha Le
-Yizhen Liu
-Ryan Mohta
+Ryan Hartanto  
+Trisha Le  
+Yizhen Liu  
+Ryan Mohta  
 Braedon Schmidt   
 Mayank Sharma  
 William Yang  
